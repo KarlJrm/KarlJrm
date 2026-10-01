@@ -85,9 +85,7 @@ A personal digital space designed to help people **preserve, organize, and revis
 
 A personal finance management web application I'm building as a hands-on project to strengthen my front-end development skills.
 
-**Learning path**
 
-`HTML` → `CSS` → `JavaScript` → `React` → `TypeScript`
 
 ### Activity Tracker
 
@@ -109,19 +107,6 @@ The project combines **event-driven programming, SQLite database design, data vi
 
 ---
 
-## Currently Learning
-
-I'm currently focusing on strengthening both my design and development skills.
-
-* JavaScript
-* React
-* TypeScript
-* Advanced CSS
-* Design Systems
-* UX Research
-* Front-End Development
-
----
 
 ## Design Philosophy
 
